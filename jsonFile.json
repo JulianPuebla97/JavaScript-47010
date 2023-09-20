@@ -1,0 +1,110 @@
+[
+    {
+        "product_name": "Calleras cobra",
+        "description": "Calleras cobra",
+        "price": 7500,
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_934676-MLA51656385026_092022-F.webp"
+    },
+    {
+        "product_name": "Calleras force pro",
+        "description": "Calleras force pro",
+        "price": 11000,
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_757730-MLA70752445590_072023-F.webp"
+    },
+    {
+        "product_name": "Muñequeras powergrip",
+        "description": "Muñequeras powergrip",
+        "price": 3500,
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_647342-MLA71259058204_082023-F.webp"
+    },
+    {
+        "product_name": "Muñequeras Hiwod",
+        "description": "Muñequeras Hiwod",
+        "price": 4300,
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_731951-MLA44228112233_122020-F.webp"
+    },
+    {
+        "product_name": "Muñequera Antitranspirante",
+        "description": "Muñequera Antitranspirante rx 236",
+        "price": 3200,
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_824250-MLA53025875493_122022-F.webp"
+    },
+    {
+        "product_name": "Soga Speed Rope Aluminio",
+        "description": "Soga Speed Rope Aluminio",
+        "price": 5000,
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_783722-MLA70257450564_072023-F.webp"
+    },
+    {
+        "product_name": "Soga Speed Rope",
+        "description": "Soga Speed Rope",
+        "price": 3500,
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_911889-MLA41798403479_052020-F.webp"
+    },
+    {
+        "product_name": "Cinturón",
+        "description": "Cinturón Lumbar Crossfit Y/o Halterofilia Rx236",
+        "price": 9000,
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_918878-MLA70486175523_072023-F.webp"
+    },
+    {
+        "product_name": "Pelota de ejercicio",
+        "description": "Slam Ball Pelota S/pique Crossfit Funcional Get Fit ! 4 Kg",
+        "price": 5000,
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_650447-MLA31115685820_062019-F.webp"
+    },
+    {
+        "product_name": "Pesas",
+        "description": "Mancuerna Hexagonal Engomada 5 Kg Cromada Gym",
+        "price": 12000,
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_788857-MLA44728266196_012021-F.webp"
+    },
+    {
+        "product_name": "Kettbell",
+        "description": "Pesa Rusa O Kettlebell Entrenamiento Funcional Cros Dep",
+        "price": 10000,
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_686789-MLA51458956310_092022-F.webp"
+    },
+    {
+        "product_name": "Cinta Cohesiva Rx236 Autoadherente",
+        "description": "Cinta Tape Para Pulgares Profesional Crossfit Premium",
+        "price": 2500,
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_808741-MLA52850033956_122022-F.webp"
+    },
+    {
+        "product_name": "Carbonato de magnesio 500g",
+        "description": "Carbonato De Magnesio Por 500 Gr En Polvo Crossfit Calistemia Importado Distribuidor",
+        "price": 3300,
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_666702-MLA70537605427_072023-F.webp"
+    },
+    {
+        "product_name": "Chaleco 12kg",
+        "description": "Chaleco Sobrecarga 12 Kg Crossfit Rx236 C/placa Acero",
+        "price": 80000,
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_612396-MLA51641334639_092022-F.webp"
+    },
+    {
+        "product_name": "Medias Altas Crossfit Rx236",
+        "description": "Ideal para hacer deportes en especial cross training y entrenamiento funcional",
+        "price": 2500,
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_943067-MLA53131537770_012023-F.webp"
+    },
+    {
+        "product_name": "Remera Rx236",
+        "description": "Ideal para hacer deportes en especial cross training y entrenamiento funcional",
+        "price": 8000,
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_806827-MLA54506934152_032023-F.webp"
+    },
+    {
+        "product_name": "Bermuda Bearfit Sport",
+        "description": "Ideal para hacer deportes en especial cross training y entrenamiento funcional",
+        "price": 6400,
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_633577-MLA53509905410_012023-F.webp"
+    },
+    {
+        "product_name": "Mochila Tactica Militar",
+        "description": "Qt&qy 45l Military Tactical Backpacks Molle Army Assault.",
+        "price": 25000,
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_745884-MLA54343477754_032023-F.webp"
+    }
+]
